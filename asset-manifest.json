@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/2021-live/static/css/main.2baa33a3.chunk.css",
+    "main.css": "/2021-live/static/css/main.552007ba.chunk.css",
     "main.js": "/2021-live/static/js/main.71e5fb1c.chunk.js",
     "main.js.map": "/2021-live/static/js/main.71e5fb1c.chunk.js.map",
     "runtime-main.js": "/2021-live/static/js/runtime-main.b2a5f621.js",
@@ -10,7 +10,7 @@
     "static/js/3.83a9c25a.chunk.js": "/2021-live/static/js/3.83a9c25a.chunk.js",
     "static/js/3.83a9c25a.chunk.js.map": "/2021-live/static/js/3.83a9c25a.chunk.js.map",
     "index.html": "/2021-live/index.html",
-    "static/css/main.2baa33a3.chunk.css.map": "/2021-live/static/css/main.2baa33a3.chunk.css.map",
+    "static/css/main.552007ba.chunk.css.map": "/2021-live/static/css/main.552007ba.chunk.css.map",
     "static/js/2.21614abc.chunk.js.LICENSE.txt": "/2021-live/static/js/2.21614abc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/2021-live/static/media/Kollektif.33fdfd1d.ttf",
     "static/media/back-arrow.383b74d2.svg": "/2021-live/static/media/back-arrow.383b74d2.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2a5f621.js",
     "static/js/2.21614abc.chunk.js",
-    "static/css/main.2baa33a3.chunk.css",
+    "static/css/main.552007ba.chunk.css",
     "static/js/main.71e5fb1c.chunk.js"
   ]
 }
